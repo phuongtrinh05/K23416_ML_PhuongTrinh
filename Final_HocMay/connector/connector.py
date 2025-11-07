@@ -6,7 +6,7 @@ import pandas as pd
 
 
 class Connector:
-    def __init__(self,server="localhost", port=3306, database="data", username="root", password="thuvt23406@"):
+    def __init__(self,server="localhost", port=3306, database="data", username="root", password="@Obama123"):
         self.server=server
         self.port=port
         self.database=database
@@ -139,3 +139,4 @@ class Connector:
     #     result = cursor.rowcount
     #     cursor.close()
     #     return result
+
