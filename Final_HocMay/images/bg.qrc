@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="Background">
+    <file>bgLogo.png</file>
+    <file>ic_home.png</file>
+    <file>ic_save.png</file>
+    <file>ic_otp.png</file>
+    <file>ic_confirmpass.png</file>
+    <file>ic_password.png</file>
+    <file>ic_email.png</file>
+    <file>ic_username.png</file>
+    <file>bg.qrc</file>
+    <file>ic_enlarge.png</file>
+    <file>ic_find.png</file>
+    <file>ic_delete.png</file>
+    <file>ic_profile.png</file>
+    <file>Logo.png</file>
+    <file>Background.jpg</file>
+  </qresource>
+</RCC>
