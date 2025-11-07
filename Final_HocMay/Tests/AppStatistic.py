@@ -9,7 +9,7 @@ connector = Connector(
     port=3306,
     database="data",
     username="root",
-    password="thuvt23406@"
+    password="@Obama123"
 )
 connector.connect()
 
@@ -22,3 +22,4 @@ print(df_desc)
 
 pm.visualizeHolidayDescription(df_desc)
 connector.disConnect()
+
